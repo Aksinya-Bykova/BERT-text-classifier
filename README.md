@@ -1,5 +1,22 @@
 # BERT-text-classifier
 
+In Yandex Maps, users leave
+more than 120 thousand reviews every day. People praise the atmosphere
+of the restaurant, scold the hotel service,
+recommend a good car wash to others and write
+much more. These texts contain a lot
+of useful information that helps
+to make the Maps service better. ML models allow
+you to identify the features of an organization, find places similar
+to it and create a generative description
+of the institution.
+
+But let's imagine that the data on user ratings
+attached to reviews has disappeared. Is it possible to
+restore them from the texts that were written
+users? **Your task is to restore
+the user's ratings based on the text and organization data.**
+
 The dataset in tskv format contains the following information:
 * Address of the organization (address)
 * Name of the organization (name_ru)
